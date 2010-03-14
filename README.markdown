@@ -17,3 +17,11 @@ Please be aware, that this class is provided as is and without any liability. Us
 To ensure, that a certain string has been converted correctly, you should convert it both ways and compare the results.
 
 Please feel free to report bugs and problems to: team@phlymail.com.
+
+Installation
+--
+
+You can install this package using the pear installer:
+
+    pear channel-discover pearhub.org
+    pear install php-idna-converter
