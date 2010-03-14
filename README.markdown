@@ -24,4 +24,4 @@ Installation
 You can install this package using the pear installer:
 
     pear channel-discover pearhub.org
-    pear install php-idna-converter
+    pear install pearhub/php-idna-converter
