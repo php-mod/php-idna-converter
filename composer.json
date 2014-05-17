@@ -1,0 +1,19 @@
+{
+    "name": "php-idna-converter/php-idna-converter",
+    "description": "phlyLabs' pure PHP IDNA Converter",
+    "type": "library",
+    "license": "GNU LGPL2.1",
+    "authors": [
+        {
+            "name": "https://github.com/lsolesen"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
